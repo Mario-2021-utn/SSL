@@ -4,7 +4,7 @@
 
 
 
-main(){
- printf("hola mundo en lenguaje c");
-               
+int main(){
+    printf("hola mundo en lenguaje c"); 
+    return 0;       
 }
